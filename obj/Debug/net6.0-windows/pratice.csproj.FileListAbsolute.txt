@@ -1,0 +1,17 @@
+D:\source\pratice\bin\Debug\net6.0-windows\pratice.exe
+D:\source\pratice\bin\Debug\net6.0-windows\pratice.deps.json
+D:\source\pratice\bin\Debug\net6.0-windows\pratice.runtimeconfig.json
+D:\source\pratice\bin\Debug\net6.0-windows\pratice.dll
+D:\source\pratice\bin\Debug\net6.0-windows\pratice.pdb
+D:\source\pratice\obj\Debug\net6.0-windows\pratice.Form1.resources
+D:\source\pratice\obj\Debug\net6.0-windows\pratice.csproj.GenerateResource.cache
+D:\source\pratice\obj\Debug\net6.0-windows\pratice.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\pratice\obj\Debug\net6.0-windows\pratice.AssemblyInfoInputs.cache
+D:\source\pratice\obj\Debug\net6.0-windows\pratice.AssemblyInfo.cs
+D:\source\pratice\obj\Debug\net6.0-windows\pratice.csproj.CoreCompileInputs.cache
+D:\source\pratice\obj\Debug\net6.0-windows\pratice.dll
+D:\source\pratice\obj\Debug\net6.0-windows\refint\pratice.dll
+D:\source\pratice\obj\Debug\net6.0-windows\pratice.pdb
+D:\source\pratice\obj\Debug\net6.0-windows\pratice.genruntimeconfig.cache
+D:\source\pratice\obj\Debug\net6.0-windows\ref\pratice.dll
+D:\source\pratice\obj\Debug\net6.0-windows\pratice.frm_listbox.resources
